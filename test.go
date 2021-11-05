@@ -8,6 +8,6 @@ func main() {
 	fmt.Scan(&n)
 	a := n/100 + n/10%10 + n%10
 	fmt.Println(a)
-	//Еще один вывод
+	//Еще один вывод +
 	fmt.Println(a)
 }
